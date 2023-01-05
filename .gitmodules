@@ -1,3 +1,6 @@
 [submodule "cpp"]
 	path = cpp
 	url = https://gitee.com/merlotliu/cpp-notes
+[submodule "ros"]
+	path = ros
+	url = https://github.com/merlotliu/ros-notes
