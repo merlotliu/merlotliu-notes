@@ -7,6 +7,3 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/merlotliu/git-notes
-[submodule "mac"]
-	path = mac
-	url = https://github.com/merlotliu/mac-notes
