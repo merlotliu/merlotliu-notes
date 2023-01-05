@@ -4,3 +4,6 @@
 [submodule "ros"]
 	path = ros
 	url = https://github.com/merlotliu/ros-notes
+[submodule "git"]
+	path = git
+	url = https://github.com/merlotliu/git-notes
