@@ -7,3 +7,6 @@
 [submodule "cpp"]
 	path = cpp
 	url = https://github.com/merlotliu/cpp-notes
+[submodule "mac"]
+	path = mac
+	url = https://github.com/merlotliu/mac-notes
