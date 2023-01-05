@@ -1,6 +1,6 @@
 [submodule "cpp"]
 	path = cpp
-	url = https://gitee.com/merlotliu/cpp-notes
+	url = https://github.com/merlotliu/cpp-notes
 [submodule "ros"]
 	path = ros
 	url = https://github.com/merlotliu/ros-notes
@@ -9,4 +9,4 @@
 	url = https://github.com/merlotliu/git-notes
 [submodule "mac"]
 	path = mac
-	url = https://gitee.com/merlotliu/mac-notes
+	url = https://github.com/merlotliu/mac-notes
