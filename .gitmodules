@@ -1,6 +1,3 @@
-[submodule "cpp"]
-	path = cpp
-	url = https://github.com/merlotliu/cpp-notes
 [submodule "ros"]
 	path = ros
 	url = https://github.com/merlotliu/ros-notes
