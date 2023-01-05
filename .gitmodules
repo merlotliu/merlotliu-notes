@@ -7,3 +7,6 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/merlotliu/git-notes
+[submodule "mac"]
+	path = mac
+	url = https://gitee.com/merlotliu/mac-notes
